@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/subeen/Downloads/HW6-3/problem1/product.h
+string
+-
+
+/Users/subeen/Downloads/HW6-3/problem1/shopping_db.cpp
+shopping_db.h
+/Users/subeen/Downloads/HW6-3/problem1/shopping_db.h
+
+/Users/subeen/Downloads/HW6-3/problem1/shopping_db.h
+string
+-
+vector
+-
+iostream
+-
+map
+-
+queue
+-
+cmath
+-
+set
+-
+user.h
+/Users/subeen/Downloads/HW6-3/problem1/user.h
+product.h
+/Users/subeen/Downloads/HW6-3/problem1/product.h
+
+/Users/subeen/Downloads/HW6-3/problem1/user.h
+string
+-
+vector
+-
+iostream
+-
+product.h
+/Users/subeen/Downloads/HW6-3/problem1/product.h
+

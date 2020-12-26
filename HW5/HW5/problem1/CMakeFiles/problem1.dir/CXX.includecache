@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/urk96/Documents/HW5/problem1/CSI.cpp
+CSI.h
+/home/urk96/Documents/HW5/problem1/CSI.h
+fstream
+-
+
+/home/urk96/Documents/HW5/problem1/CSI.h
+iostream
+-
+string
+-
+cmath
+-
+
+/home/urk96/Documents/HW5/problem1/TestHelper.h
+iostream
+-
+sstream
+-
+fstream
+-
+
+/home/urk96/Documents/HW5/problem1/main.cpp
+CSI.h
+/home/urk96/Documents/HW5/problem1/CSI.h
+TestHelper.h
+/home/urk96/Documents/HW5/problem1/TestHelper.h
+cassert
+-
+

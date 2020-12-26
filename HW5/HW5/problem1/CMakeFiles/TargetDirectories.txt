@@ -1,0 +1,3 @@
+/home/urk96/Documents/HW5/problem1/CMakeFiles/rebuild_cache.dir
+/home/urk96/Documents/HW5/problem1/CMakeFiles/edit_cache.dir
+/home/urk96/Documents/HW5/problem1/CMakeFiles/problem1.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/subeen/Downloads/HW6-3/problem2/app.cpp
+iostream
+-
+utility
+-
+istream
+-
+ostream
+-
+algorithm
+-
+string
+-
+filesystem
+-
+fstream
+-
+list
+-
+sstream
+-
+ctime
+-
+vector
+-
+config.h
+/Users/subeen/Downloads/HW6-3/problem2/config.h
+app.h
+/Users/subeen/Downloads/HW6-3/problem2/app.h
+
+/Users/subeen/Downloads/HW6-3/problem2/app.h
+
+/Users/subeen/Downloads/HW6-3/problem2/config.h
+

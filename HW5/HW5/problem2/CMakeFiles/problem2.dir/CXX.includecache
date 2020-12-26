@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/urk96/Documents/HW5/problem2/main.cpp
+iostream
+-
+string
+-
+utility
+-
+set
+-
+vector
+-
+tuple
+-
+cmath
+-
+algorithm
+-
+
